@@ -1,0 +1,11 @@
+D:\Development\C#\Note-App\Note-App\bin\Release\Note-App.exe.config
+D:\Development\C#\Note-App\Note-App\bin\Release\Note-App.exe
+D:\Development\C#\Note-App\Note-App\bin\Release\Note-App.pdb
+D:\Development\C#\Note-App\Note-App\obj\Release\Note-App.csproj.AssemblyReference.cache
+D:\Development\C#\Note-App\Note-App\obj\Release\Note-App.csproj.SuggestedBindingRedirects.cache
+D:\Development\C#\Note-App\Note-App\obj\Release\Note_App.Form1.resources
+D:\Development\C#\Note-App\Note-App\obj\Release\Note_App.Properties.Resources.resources
+D:\Development\C#\Note-App\Note-App\obj\Release\Note-App.csproj.GenerateResource.cache
+D:\Development\C#\Note-App\Note-App\obj\Release\Note-App.csproj.CoreCompileInputs.cache
+D:\Development\C#\Note-App\Note-App\obj\Release\Note-App.exe
+D:\Development\C#\Note-App\Note-App\obj\Release\Note-App.pdb
